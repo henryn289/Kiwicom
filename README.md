@@ -4,7 +4,7 @@ A community hub for developers to discover, share and collaborate on open source
 
 > **This is a fork of a team project. I did not build this alone.**
 >
-> The original repository is [Oscar-Wakefield-Ngahuru-2026/Kiwicom](https://github.com/Oscar-Wakefield-Ngahuru-2026/Kiwicom), owned by the team. Kiwicom was built by four people over two sprints, 25 June to 1 July 2026. I forked it here with the team's agreement so I could document my own contribution for portfolio purposes. All issues, pull requests and review history live in the original repository, and the team retains ownership of the project.
+> The original repository is [Oscar-Wakefield/Kiwicom](https://github.com/Oscar-Wakefield/Kiwicom), owned by the team. Kiwicom was built by four people over two sprints, 25 June to 1 July 2026. I forked it here with the team's agreement so I could document my own contribution for portfolio purposes. All issues, pull requests and review history live in the original repository, and the team retains ownership of the project.
 >
 > Full team: Oscar Wakefield (Product Owner), Henry Nguyen (Agile Facilitator), Serina McFall (Git Keeper), Ivonne Valenzuela (Vibes Watcher).
 
@@ -55,7 +55,7 @@ So a user adding a project does not have to retype what GitHub already knows. Al
 
 I was the team's Agile Facilitator. I set the two sprint structure, core MVP in sprint one and feature expansion in sprint two, ran standups and retros, translated scope into tickets, and managed the backlog. I reviewed and merged pull requests into `dev`, sharing merge duty with the team's Git Keeper.
 
-My pull requests in the original repository: [`author:henryn289`](https://github.com/Oscar-Wakefield-Ngahuru-2026/Kiwicom/pulls?q=is%3Apr+author%3Ahenryn289)
+My pull requests in the original repository: [`author:henryn289`](https://github.com/Oscar-Wakefield/Kiwicom/pulls?q=is%3Apr+author%3Ahenryn289)
 
 ## What I did not build
 
@@ -131,4 +131,4 @@ With more time I would keep the token on the server and have the client call our
 
 ## Credit
 
-Kiwicom was a team effort. Oscar Wakefield set scope and priorities, Serina McFall kept the branch history healthy and shared review and merge duty, and Ivonne Valenzuela built validation and testing. Original repository and full history: [Oscar-Wakefield-Ngahuru-2026/Kiwicom](https://github.com/Oscar-Wakefield-Ngahuru-2026/Kiwicom).
+Kiwicom was a team effort. Oscar Wakefield set scope and priorities, Serina McFall kept the branch history healthy and shared review and merge duty, and Ivonne Valenzuela built validation and testing. Original repository and full history: [Oscar-Wakefield/Kiwicom](https://github.com/Oscar-Wakefield/Kiwicom).
